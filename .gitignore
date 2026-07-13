@@ -1,0 +1,54 @@
+# ===================================
+# Python
+# ===================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python Build Files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Streamlit Cache
+.streamlit/
+
+# FAISS Index (if you save it later)
+*.faiss
+*.index
+
+# Model Cache (optional)
+.cache/
+huggingface/
+
+# Temporary Files
+*.tmp
+*.temp
