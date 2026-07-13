@@ -6,7 +6,8 @@ This project implements a **Context-Aware Chatbot** using **Retrieval-Augmented 
 
 Unlike traditional chatbots, this system can answer questions based on external documents while maintaining conversation history for context-aware interactions.
 
----
+---<img width="1899" height="998" alt="Screenshot 2026-07-13 210425" src="https://github.com/user-attachments/assets/9b8bc9f3-8e15-416f-ae8a-4c5ddcbf4617" />
+
 
 ## Objectives
 
@@ -212,12 +213,14 @@ Yes. Machine Learning is a subset of Artificial Intelligence.
 - Google Gemini API Integration
 - Streamlit Deployment
 
----
+graphical interface
+<img width="1850" height="1042" alt="Screenshot 2026-07-13 192535" src="https://github.com/user-attachments/assets/ce25fc0a-9402-411a-92b7-60bd746d4b6d" />
+
 
 ## Author
 
-**Name:** Your Name
+**Name:** zaima Sohail
 
-**Course:** Artificial Intelligence / Machine Learning
+**internship :** Artificial Intelligence / Machine Learning
 
 **Project:** Context-Aware Chatbot Using Retrieval-Augmented Generation (RAG)
